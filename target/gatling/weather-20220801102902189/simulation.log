@@ -1,0 +1,7 @@
+RUN	OpenWeather.Weather	weather	1659349742189	 	3.6.1
+USER	REQUEST	START	1659349743726
+USER	REQUEST	START	1659349743728
+REQUEST		weather	1659349743753	1659349743921	KO	jsonpJsonPath(lon).find.exists preparation crashed: Regex could not extract JSON object from JSONP response
+REQUEST		weather	1659349743753	1659349743921	KO	jsonpJsonPath(lon).find.exists preparation crashed: Regex could not extract JSON object from JSONP response
+USER	REQUEST	END	1659349743972
+USER	REQUEST	END	1659349743972

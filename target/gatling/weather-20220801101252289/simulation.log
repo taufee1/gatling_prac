@@ -1,0 +1,7 @@
+RUN	OpenWeather.Weather	weather	1659348772289	 	3.6.1
+ERROR	weather: Failed to build request: url api.openweathermap.org/data/2.5/weather?q=Delhi &appid=96277d36af4544aea743f78cb0291752 can't be parsed into an Uri: j.l.IllegalArgumentException: api.openweathermap.org/data/2.5/weather?q=Delhi &appid=96277d36af4544aea743f78cb0291752 could not be parsed into a proper Uri, missing scheme 	1659348773792
+ERROR	weather: Failed to build request: url api.openweathermap.org/data/2.5/weather?q=Delhi &appid=96277d36af4544aea743f78cb0291752 can't be parsed into an Uri: j.l.IllegalArgumentException: api.openweathermap.org/data/2.5/weather?q=Delhi &appid=96277d36af4544aea743f78cb0291752 could not be parsed into a proper Uri, missing scheme 	1659348773792
+USER	REQUEST	END	1659348773798
+USER	REQUEST	START	1659348773786
+USER	REQUEST	START	1659348773786
+USER	REQUEST	END	1659348773799

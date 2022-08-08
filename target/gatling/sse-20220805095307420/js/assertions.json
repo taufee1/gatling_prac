@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.SSE",
+  "simulationId": "sse",
+  "start": 1659693187420,
+  "description": "",
+  "scenarios": ["SSE"],
+  "assertions": [
+
+  ]
+}

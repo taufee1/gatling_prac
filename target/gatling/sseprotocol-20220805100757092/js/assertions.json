@@ -1,0 +1,10 @@
+{
+  "simulation": "OtherProtocols.SSEProtocol",
+  "simulationId": "sseprotocol",
+  "start": 1659694077092,
+  "description": "",
+  "scenarios": ["sse scenario"],
+  "assertions": [
+
+  ]
+}

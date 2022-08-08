@@ -1,0 +1,41 @@
+RUN	starterpackage.OpenBrew	openbrew	1659511139618	 	3.6.1
+USER	find_breweries	START	1659511140836
+USER	find_breweries	START	1659511140836
+USER	find_breweries	START	1659511140836
+USER	find_breweries	START	1659511140836
+USER	find_breweries	START	1659511140836
+USER	find_breweries	START	1659511140836
+USER	find_breweries	START	1659511140836
+USER	find_breweries	START	1659511140902
+USER	find_breweries	START	1659511140837
+USER	find_breweries	START	1659511140904
+REQUEST		all_breweries	1659511140902	1659511141202	OK	 
+REQUEST		all_breweries	1659511140885	1659511141213	OK	 
+REQUEST		all_breweries	1659511140885	1659511141214	OK	 
+REQUEST		all_breweries	1659511140885	1659511141194	OK	 
+REQUEST		all_breweries	1659511140885	1659511141201	OK	 
+REQUEST		all_breweries	1659511140885	1659511141189	OK	 
+REQUEST		all_breweries	1659511140885	1659511141449	OK	 
+REQUEST		all_breweries	1659511140885	1659511141460	OK	 
+REQUEST		all_breweries	1659511140904	1659511141461	OK	 
+REQUEST		all_breweries	1659511140885	1659511141707	OK	 
+REQUEST		id	1659511143456	1659511143904	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659511143923
+REQUEST		id	1659511143471	1659511143935	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659511143938
+REQUEST		id	1659511143471	1659511143992	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659511143995
+REQUEST		id	1659511143268	1659511144089	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659511144095
+REQUEST		id	1659511143269	1659511144095	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659511144096
+REQUEST		id	1659511143269	1659511144115	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659511144116
+REQUEST		id	1659511143270	1659511144128	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659511144129
+REQUEST		id	1659511143269	1659511144142	KO	substring(West Virginias).find.exists, found nothing
+REQUEST		id	1659511143720	1659511144146	KO	substring(West Virginias).find.exists, found nothing
+REQUEST		id	1659511143269	1659511144149	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659511144145
+USER	find_breweries	END	1659511144151
+USER	find_breweries	END	1659511144152

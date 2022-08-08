@@ -1,0 +1,4 @@
+RUN	OpenWeather.Assessment	assessment	1659587900780	 	3.6.1
+USER	HotelDetails	START	1659587902452
+REQUEST		getHotelList	1659587902487	1659587902487	KO	j.n.UnknownHostException: developer.goibibo.com
+USER	HotelDetails	END	1659587902509

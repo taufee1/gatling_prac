@@ -1,0 +1,10 @@
+{
+  "simulation": "OpenWeather.Weather",
+  "simulationId": "weather",
+  "start": 1659506744011,
+  "description": "",
+  "scenarios": ["REQUEST"],
+  "assertions": [
+
+  ]
+}

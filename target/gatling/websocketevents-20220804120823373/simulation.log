@@ -1,0 +1,8 @@
+RUN	WebSocket.WebSocketEvents	websocketevents	1659614903373	 	3.6.1
+USER	testwebscoket	START	1659614904684
+REQUEST		firstewq	1659614904705	1659614964718	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to echo.websocket.events/3.220.57.224:443 after 60000 ms
+REQUEST		opensocket	1659614964804	1659614965584	OK	 
+REQUEST		sendmessage	1659614965593	1659614965593	OK	 
+REQUEST		send2ndmessage	1659614965595	1659614965595	OK	 
+REQUEST		closeconnection	1659614965601	1659614965857	OK	 
+USER	testwebscoket	END	1659614965862

@@ -1,0 +1,7 @@
+RUN	OpenWeather.Weather	weather	1659506610341	 	3.6.1
+ERROR	weather: Failed to build request: No attribute named 'city' is defined 	1659506611468
+ERROR	weather: Failed to build request: No attribute named 'city' is defined 	1659506611468
+USER	REQUEST	START	1659506611455
+USER	REQUEST	START	1659506611456
+USER	REQUEST	END	1659506611484
+USER	REQUEST	END	1659506611484

@@ -1,0 +1,161 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 149,
+        "ok": 149,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 170,
+        "ok": 170,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 160,
+        "ok": 160,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 11,
+        "ok": 11,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 160,
+        "ok": 160,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 165,
+        "ok": 165,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 169,
+        "ok": 169,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 170,
+        "ok": 170,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.0,
+        "ok": 2.0,
+        "ko": 0
+    }
+},
+"contents": {
+"req_weather-aab92": {
+        "type": "REQUEST",
+        "name": "weather",
+"path": "weather",
+"pathFormatted": "req_weather-aab92",
+"stats": {
+    "name": "weather",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 149,
+        "ok": 149,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 170,
+        "ok": 170,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 160,
+        "ok": 160,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 11,
+        "ok": 11,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 160,
+        "ok": 160,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 165,
+        "ok": 165,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 169,
+        "ok": 169,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 170,
+        "ok": 170,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.0,
+        "ok": 2.0,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

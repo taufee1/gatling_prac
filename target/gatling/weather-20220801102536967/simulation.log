@@ -1,0 +1,7 @@
+RUN	OpenWeather.Weather	weather	1659349536967	 	3.6.1
+USER	REQUEST	START	1659349538362
+USER	REQUEST	START	1659349538362
+REQUEST		weather	1659349538393	1659349538540	KO	jsonPath(lon).find.exists extraction crashed: '$' expected but 'l' found
+REQUEST		weather	1659349538393	1659349538550	KO	jsonPath(lon).find.exists extraction crashed: '$' expected but 'l' found
+USER	REQUEST	END	1659349538637
+USER	REQUEST	END	1659349538637

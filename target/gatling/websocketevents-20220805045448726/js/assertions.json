@@ -1,0 +1,10 @@
+{
+  "simulation": "WebSocket.WebSocketEvents",
+  "simulationId": "websocketevents",
+  "start": 1659675288726,
+  "description": "",
+  "scenarios": ["testwebscoket"],
+  "assertions": [
+
+  ]
+}

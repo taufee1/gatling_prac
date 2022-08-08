@@ -1,0 +1,10 @@
+{
+  "simulation": "OpenWeather.Assessment",
+  "simulationId": "assessment",
+  "start": 1659587900780,
+  "description": "",
+  "scenarios": ["HotelDetails"],
+  "assertions": [
+
+  ]
+}

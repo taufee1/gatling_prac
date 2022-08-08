@@ -1,0 +1,13 @@
+RUN	starterpackage.OpenBrew	openbrew	1659509042255	 	3.6.1
+USER	find_breweries	START	1659509043356
+USER	find_breweries	START	1659509043342
+USER	find_breweries	START	1659509043356
+REQUEST		all_breweries	1659509043384	1659509043624	OK	 
+REQUEST		all_breweries	1659509043384	1659509043628	OK	 
+REQUEST		all_breweries	1659509043383	1659509043633	OK	 
+REQUEST		id	1659509045664	1659509045747	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659509045765
+REQUEST		id	1659509045664	1659509045740	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659509045767
+REQUEST		id	1659509045664	1659509046473	KO	substring(West Virginias).find.exists, found nothing
+USER	find_breweries	END	1659509046475
